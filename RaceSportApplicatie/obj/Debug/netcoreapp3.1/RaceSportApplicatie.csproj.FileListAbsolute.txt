@@ -1,0 +1,11 @@
+C:\Users\larsv\source\repos\RaceSportApplicatie\RaceSportApplicatie\bin\Debug\netcoreapp3.1\RaceSportApplicatie.exe
+C:\Users\larsv\source\repos\RaceSportApplicatie\RaceSportApplicatie\bin\Debug\netcoreapp3.1\RaceSportApplicatie.deps.json
+C:\Users\larsv\source\repos\RaceSportApplicatie\RaceSportApplicatie\bin\Debug\netcoreapp3.1\RaceSportApplicatie.runtimeconfig.json
+C:\Users\larsv\source\repos\RaceSportApplicatie\RaceSportApplicatie\bin\Debug\netcoreapp3.1\RaceSportApplicatie.runtimeconfig.dev.json
+C:\Users\larsv\source\repos\RaceSportApplicatie\RaceSportApplicatie\bin\Debug\netcoreapp3.1\RaceSportApplicatie.dll
+C:\Users\larsv\source\repos\RaceSportApplicatie\RaceSportApplicatie\bin\Debug\netcoreapp3.1\RaceSportApplicatie.pdb
+C:\Users\larsv\source\repos\RaceSportApplicatie\RaceSportApplicatie\obj\Debug\netcoreapp3.1\RaceSportApplicatie.csprojAssemblyReference.cache
+C:\Users\larsv\source\repos\RaceSportApplicatie\RaceSportApplicatie\obj\Debug\netcoreapp3.1\RaceSportApplicatie.AssemblyInfoInputs.cache
+C:\Users\larsv\source\repos\RaceSportApplicatie\RaceSportApplicatie\obj\Debug\netcoreapp3.1\RaceSportApplicatie.AssemblyInfo.cs
+C:\Users\larsv\source\repos\RaceSportApplicatie\RaceSportApplicatie\obj\Debug\netcoreapp3.1\RaceSportApplicatie.dll
+C:\Users\larsv\source\repos\RaceSportApplicatie\RaceSportApplicatie\obj\Debug\netcoreapp3.1\RaceSportApplicatie.pdb
